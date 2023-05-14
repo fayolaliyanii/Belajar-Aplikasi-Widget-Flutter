@@ -1,7 +1,16 @@
-# Belajar-Aplikasi-Widget-Flutter
+# tugas_2
 
-Tugas mata kuliah aplikasi bergerak
+A new Flutter project.
 
-Hasil : 
+## Getting Started
 
-![Screenshot 2023-05-15 053947](https://github.com/fayolaliyanii/Belajar-Aplikasi-Widget-Flutter/assets/101540761/72198d9b-c2e7-41de-b628-3f7d1dce04dd)
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
