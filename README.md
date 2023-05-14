@@ -2,7 +2,7 @@
 
 Belajar aplikasi widget Flutter
 
-Tugas aplikasi bergerak
+Tugas mata kuliah aplikasi bergerak
 
 Hasil : 
 
